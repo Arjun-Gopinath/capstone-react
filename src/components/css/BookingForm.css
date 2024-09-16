@@ -1,0 +1,13 @@
+.booking-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: baseline;
+  border: none;
+  width: 50%;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: row;
+}
