@@ -17,7 +17,7 @@ const Header = () => {
           </p>
           <button
             className="reserve"
-            aria-label="Reserve Table"
+            aria-label="On Click"
             onClick={() => navigate("/Booking")}
           >
             Reserve Table
